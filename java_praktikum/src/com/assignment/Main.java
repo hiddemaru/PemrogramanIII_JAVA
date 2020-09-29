@@ -16,7 +16,7 @@ public class Main {
 
 //      output
         System.out.println("Hallo Kawan Kawan");
-        System.out.println("Perkenalkan..");
+        System.out.println("Perkenalkan...");
         System.out.println("Nama : " + nama);
         System.out.println("NIM : " + nim);
         System.out.println("Jurusan : " + jurusan);
